@@ -1,0 +1,4 @@
+GET BTC Buy value using web scrapping ( Python) and email that using Python.
+max 30 min - 3 hrs job
+
+https://www.coinspot.com.au/tradecoins

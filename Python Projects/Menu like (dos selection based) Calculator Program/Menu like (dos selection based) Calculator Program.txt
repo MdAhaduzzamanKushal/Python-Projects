@@ -1,0 +1,19 @@
+can you make a dos menu based Calculator menu program?
+
+1. Add
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+
+
+If you press 1, It will take two inputs a and b
+
+Enter a= 4
+Enter b= 5
+The result is 9
+(press any key to continue)
+
+[ it will return to main menu until you press 5] 
+
+research, study, use ChatGPT, understand, do manual typing ( if you are a beginner)

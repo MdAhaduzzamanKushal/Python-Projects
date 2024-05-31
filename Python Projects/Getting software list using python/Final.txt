@@ -1,0 +1,50 @@
+7-Zip
+Adobe
+AGEIA Technologies
+Apple Inc.
+ASIO
+ASUS
+Autodesk
+Avast Software
+Classes
+Clients
+CPUID
+CVSM
+DefaultUserEnvironment
+dotnet
+DTS
+Electronic Arts
+GitForWindows
+Google
+IM Providers
+Intel
+JavaSoft
+Khronos
+Microsoft
+Mozilla
+mozilla.org
+MozillaPlugins
+mtkbt
+National Instruments
+Node.js
+Notepad++
+NVIDIA Corporation
+OBS Studio
+ODBC
+OEM
+OpenSSH
+Oracle
+Partner
+Policies
+PXISA
+Python
+Realtek
+RegisteredApplications
+Setup
+SyncIntegrationClients
+TeamViewer
+VMware, Inc.
+Windows
+WinRAR
+Wondershare
+WOW6432Node

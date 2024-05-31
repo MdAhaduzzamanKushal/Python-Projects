@@ -1,0 +1,17 @@
+Steps:
+1.Install below package in vs code or in other ide
+pip3 install python-telegram-bot
+pip install pyweatherbit 
+2.Create telegram bot=>botfather
+From the bot I will get token.After creating the bot I have to  start the bot.
+3.For that bot I need chat id.So I will get id from =>idbot or others id bot
+4.Get API token from Weather bit website.
+5.In main code input the value of telegram bot token,chat id and api token.
+Then run the code.I will give message to the bot.
+6.If I want to give message to the group I need create group id, which I will get from python group code.
+Then take the value of group id and put into main weather api code.It will send message to the group.
+
+****For the group sending message create group with 2 people or it will not work.
+
+Youtube link(youtube channel mail(private)):
+https://www.youtube.com/watch?v=oHQPXhxnxgM&list=PL8k5yqbMF548p2Xj_CiKlOrOKcJcFq0_M&index=2
